@@ -8,7 +8,7 @@
 
 ---
 
-<div style="width: 50%; float: right"><img src="poster.svg" alt="Poster" style="width: 100%"></div>
+<div><img src="poster.svg" alt="Poster" width="50%" align="right"></div>
 
 This repository contains supplementary source code of the
 _Character Transformations for Non-Autoregressive GEC Tagging_ paper.
