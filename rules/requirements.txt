@@ -1,0 +1,2 @@
+python-Levenshtein==0.12.2
+transformers==3.5.0
