@@ -8,8 +8,6 @@
 
 ---
 
-<div><img src="poster.svg" alt="Poster" width="50%" align="right"></div>
-
 This repository contains supplementary source code of the
 _Character Transformations for Non-Autoregressive GEC Tagging_ paper.
 Consider it a research prototype, not an off-the-shelf product.
@@ -24,6 +22,10 @@ The repository contains two main components:
 
 - [`training`](training) directory contains the scripts for training
   a BERT-like model on gold data encoded with transformations.
+
+## Poster
+
+<img src="poster.svg" alt="Poster" width="100%">
 
 ## Citation
 
